@@ -1,0 +1,14 @@
+﻿  basic.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  moving.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+\\Mac\Home\Desktop\生日卡片\moving.cpp(47,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  word.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+\\Mac\Home\Desktop\生日卡片\word.cpp(25,11): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Desktop\生日卡片\word.cpp(27,2): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\Mac\Home\Desktop\生日卡片\word.cpp(29,2): warning C4996: '_itow': This function or variable may be unsafe. Consider using _itow_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  生日卡片.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  生日卡片.vcxproj -> \\Mac\Home\Desktop\生日卡片\x64\Debug\生日卡片.exe
